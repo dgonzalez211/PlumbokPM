@@ -7,7 +7,7 @@ Code generation starts when additional autoloader detects class uses PlumbokPM a
 code with added methods in preprocess step.
 
 ![PHP 8.0](https://img.shields.io/badge/PHP-8.0-blue.svg)
-[![GitHub license](https://img.shields.io/github/license/plumbokpm/plumbokpm.svg)](https://github.com/plumbokpm/plumbokpm/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/octopussh/plumbokpm.svg)](https://github.com/octopussh/plumbokpm/blob/master/LICENSE)
 
 ---
 
