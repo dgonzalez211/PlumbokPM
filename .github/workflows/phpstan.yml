@@ -23,7 +23,7 @@ jobs:
 
       - name: Download PHP
         if: steps.php-cache.outputs.cache-hit != 'true'
-        run: ./test/github/get-php.sh
+        run: ./tests/github/get-php.sh
 
   phpstan:
     name: PHPStan analysis
