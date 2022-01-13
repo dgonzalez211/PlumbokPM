@@ -1,0 +1,7 @@
+name: plumbokpm
+authors:
+  - Octopush
+antigen: octopush\plumbok
+version: 1.0-beta
+api:
+  - 4.0.0

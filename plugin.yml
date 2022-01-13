@@ -1,0 +1,11 @@
+name: PlumbokPM
+version: 1.0-beta
+author: Octopush
+src-namespace-prefix: Octopush\Plumbok
+main: Octopush\Plumbok\Plugin\PlumbokPM
+description: Virion|Plugin to generate code in runtime process
+website: https://github.com/octopush/plumbokpm
+
+api: 4.0.0
+extensions:
+  core: ">=8.0.3"
